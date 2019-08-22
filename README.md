@@ -8,5 +8,6 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+Dominiq Marica
+I like basketball, I am from Michigan, and I am 16
+My goal is to pass and learn more about coding.
